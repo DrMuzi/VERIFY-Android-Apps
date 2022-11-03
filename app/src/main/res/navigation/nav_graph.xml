@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/FirstFragment">
+
+    <fragment
+        android:id="@+id/FirstFragment"
+        android:name="com.b21cap0133.verify.ui.MainScreenFragment"
+        android:label="@string/first_fragment_label"
+        tools:layout="@layout/fragment_main_screen">
+
+        <action
+            android:id="@+id/action_FirstFragment_to_SecondFragment"
+            app:destination="@id/SecondFragment" />
+        <action
+            android:id="@+id/action_FirstFragment_to_appSwitchFragment"
+            app:destination="@id/appSwitchFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/SecondFragment"
+        android:name="com.b21cap0133.verify.ui.HoaxEduFragment"
+        android:label="@string/second_fragment_label"
+        tools:layout="@layout/fragment_hoax_edu">
+
+        <action
+            android:id="@+id/action_SecondFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/appSwitchFragment"
+        android:name="com.b21cap0133.verify.ui.AppSwitchFragment"
+        android:label="@string/app_switch_label"
+        tools:layout="@layout/fragment_app_switch" >
+        <action
+            android:id="@+id/action_appSwitchFragment_to_FirstFragment"
+            app:destination="@id/FirstFragment" />
+        <argument
+            android:name="identifier"
+            app:argType="integer" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.b21cap0133.verify.ui.AboutFragment"
+        android:label="@string/about_fragment_label"
+        tools:layout="@layout/fragment_about" />
+    <fragment
+        android:id="@+id/checkHoaxFragment"
+        android:name="com.b21cap0133.verify.ui.CheckHoaxFragment"
+        android:label="Cek Hoax"
+        tools:layout="@layout/fragment_check_hoax" />
+</navigation>

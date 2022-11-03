@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">VERIFY</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Beranda</string>
+    <string name="second_fragment_label">Edukasi Hoax</string>
+    <string name="indonesian_fact_verification_system">Indonesian Fact Verification System</string>
+    <string name="turnbackhoax_desc">TurnBackHoax</string>
+    <string name="cekfakta_desc">Cekfakta.com</string>
+    <string name="jalahoax_desc">Jala Hoax</string>
+    <string name="the_jakarta_post_desc">The Jakarta Post</string>
+    <string name="jaki_desc">JaKi</string>
+    <string name="tentang_kami_desc">Tentang Kami</string>
+    <string name="kenali_7_jenis_berita_hoax">Kenali 7 Jenis Berita Hoax</string>
+    <string name="satire_atau_parodi">Satire atau Parodi</string>
+    <string name="tidak_ada_niatan_namun_berpotensi_mengelabui">Tidak ada niatan namun berpotensi mengelabui</string>
+    <string name="konten_menyesatkan">Konten Menyesatkan</string>
+    <string name="penggunaan_informasi_yang_salah_untuk_membingkai_sebuah_isu_atau_individu">Penggunaan informasi untuk membingkai sebuah isu atau individu</string>
+    <string name="konten_tiruan">Konten Tiruan</string>
+    <string name="ketika_sumber_asli_ditiru_tanpa_adanya_izin">Ketika sumber asli ditiru dengan maksud mengelabui</string>
+    <string name="konten_baru_yang_100_salah_dan_digunakan_untuk_menipu_atau_merugikan">Konten baru yang 100%% salah dan digunakan untuk menipu atau merugikan</string>
+    <string name="konten_palsu">Konten Palsu</string>
+    <string name="konten_yang_salah">Koneksi Yang Salah</string>
+    <string name="ketika_judul_keterangan_atau_gambar_tidak_mendukung_konten">Ketika judul, keterangan atau gambar tidak mendukung konten</string>
+    <string name="konten_yang_dimanipulasi">Konten Yang Dimanipulasi</string>
+    <string name="ketika_informasi_atau_gambar_asli_dimanipulasi_untuk_menipu">Ketika informasi atau gambar asli dimanipulasi untuk menipu</string>
+    <string name="konteks_yang_salah">Konteks Yang Salah</string>
+    <string name="app_switch_label" />
+    <string name="about_fragment_label">Tentang Kami</string>
+    <string name="about_text">Arus informasi melalui internet yang tinggi membuat masyarakat rawan terkena hoax. Masyarakat Indonesia cenderung mempercayai informasi yang didapat di internet tanpa melakukan validasi terlebih dahulu. Hoax adalah informasi palsu yang ditujukan untuk menyesatkan pembacanya. Berita yang bersifat hoax dapat menyebabkan kepanikan di masyarakat dan kerugian lainnya. Oleh karenanya, diperlukan suatu platform yang dapat digunakan untuk memvalidasi setiap informasi dan ramah digunakan oleh masyarakat. Platform ini diharapkan dapat mengurangi berita-berita hoax dan dapat membantu platform yang sudah tersedia seperti turnbackhoax dan jalahoax.</string>
+    <string name="textbox_hint">Ketikkan sebuah pesan</string>
+    <string name="send">SEND</string>
+    <string name="underline_tooltip_text">Tekan balon chat untuk hasil selengkapnya.</string>
+    <string name="check_fakta">Check Fakta</string>
+    <string name="info_selengkapnya">Klik untuk pergi ke sumber berita</string>
+</resources>
