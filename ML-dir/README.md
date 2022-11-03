@@ -5,4 +5,4 @@ Untuk beberapa alasan, disediakan repository atau drive yang memuat beberapa ber
 2. Model
 3. Dataset
 
-Link : <a  href="https://github.com/DrMuzi/VERIFY"> GitHub </a> atau <a href="https://drive.google.com/drive/folders/1N5qaEKffRhDjt1Km0xi_e_CkEIbBn8KS?usp=sharing" > Google Drive </a>
+Link : <a  href="https://github.com/DrMuzi/VERIFY"> GitHub </a> atau <a href="https://drive.google.com/drive/folders/10DjB69eREMnl-85Y3llN6rVj6WpjlvVI" > Google Drive </a>
